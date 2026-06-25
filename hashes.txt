@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Rêve Éveillé
+
+This log tracks the cryptographic history and versioning for the song **Un Rêve Éveillé** (un-reve-eveille).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:28:02.432039 | `v1` | `72c7b810d9f38bd1d30de8194130ccd98d809bd86ef6875afd9f7e23b104a33b` | `16ed75fa5f434369ec8f1dc814188354c5075c93e91a470c6ad78c3ac45a5b12` | `2026-06-26_un-reve-eveille-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

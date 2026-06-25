@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-reve-eveille/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Un Rêve Éveillé](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-reve-eveille/) |
+| **Get License** | [Get License For Un Rêve Éveillé](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-reve-eveille/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `72c7b810d9f38bd1d30de8194130ccd98d809bd86ef6875afd9f7e23b104a33b` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
