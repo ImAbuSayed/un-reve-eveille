@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-reve-eveille/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Un Rêve Éveillé](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-reve-eveille/) |
+| **Get License** | [Obtain a Music License for Un Rêve Éveillé](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-reve-eveille/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On roule en V12, baby, on s'évade ce soir
+> T'as ce charme insolent, belle à n'y pas croire
+> Le moteur ronronne, mais c'est ton corps qui m'appelle
+> Dans la nuit parisienne, t'es mon étincelle
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
